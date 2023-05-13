@@ -1,5 +1,17 @@
 .content{
-  background-color:black;
-  color:red;
+  background-color: green;
+  color: red;
   text-align:center;
   }
+
+body {
+
+    font-size: 15pt;
+
+    background-color: black;
+
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+
